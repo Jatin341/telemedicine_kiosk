@@ -69,3 +69,7 @@ A demonstration video of kiosk mode, boot persistence, and real-time doctor stat
 
 ## **License**
 This project is for educational/assignment purposes.
+
+## 🎥 Demo Video
+[Download/Watch Demo](https://github.com/YOUR-USERNAME/telemedicine-kiosk/releases/latest)
+
